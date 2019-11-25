@@ -2,9 +2,9 @@
 
 A large component of your assessment is based on your thoughtful participation in discussions on the topic that we discuss each week. As a part seminar-style class, the focus is on encouraging you to develop your own critical thoughts on the matters being discussed, as well as both your writing and oral skills in presenting these ideas with clarity (arguing them, as necessary).
 
-Each week, a new set of readings will be posted to the Slack (probably the Friday before the following meeting). You are responsible for reading these, and responding to these readings in at least one written paragraph. These are **due the following Thursday at noon.**
+Each week, a new set of readings will be posted. You are responsible for reading these, and responding to these readings in at least one written paragraph. These are **due @TODO**
 
-Note: During the discussion, I also expect you to contribute to the conversation at least once. (I know this is hard for introverts, which is why you have a week to prepare your thoughts in written form.)
+Note: During the in class discussion, I also expect you to contribute to the conversation at least once. (I know this is hard for introverts, which is why you have a week to prepare your thoughts in written form.)
 
 In both cases, you may build off of, or respond to others' contributions, or simply strike it out on your own.
 
@@ -21,7 +21,7 @@ I will evaluate you based on the novelty and clarity of your contributions. Thes
 
 At any time, I am happy to provide you with verbal feedback if you'd like more clarity as to my thinking.
 
-## Grad Students
+## Topic Presentations
 
 The week before your assigned presentation day:
 
