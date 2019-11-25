@@ -8,5 +8,4 @@ By the end of the course:
 * Students will be able to critically evaluate the user experience of mixed reality applications
 
 ## Pre-requisites
-* CPSC 453 (Graphics), CPSC 481 (HCI)
 * Consent of the instructor
