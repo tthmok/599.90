@@ -19,9 +19,9 @@ Because you are not the "customer" of this application, you will want to meet wi
 
 ## Part 0: Mini-Proposal
 
-Develop a one paragraph mini-proposal that describes the basic idea for the project, the client, the team members (and their anticipated "roles"), and whatever else you think Tony should know.
+Develop a one paragraph mini-proposal that describes the basic idea for the project, the client, the team members (and their anticipated "roles"), and whatever else you think Terrance should know.
 
-To submit, create a submission channel for your group in Slack (e.g. #teamCoolSubmission), and add Tony. Submit the paragraph as a message to the message with me @'ed.
+To submit, create a submission channel for your group in Slack (e.g. #teamCoolSubmission), and add Terrance. Submit the paragraph as a message to the message with me @'ed.
 
 ## Part 1: Proposal
 
