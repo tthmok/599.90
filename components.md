@@ -2,10 +2,9 @@
 
 This is a project-based course with seminar-style components. Thus, you will be evaluated on your completion of written and coding components, contributing to both online and in-person discussion, as well as your engagement with your client.
 
-
 ## Component Weighting
 
-| Component                         | Weighting % | 
+| Component                         | Weighting % |
 |-----------------------------------|-------------|
 | [Assignments](assignments.md)     | 15          |
 | [Participation](participation.md) | 20          |
@@ -33,4 +32,3 @@ The project is the primary "development" component of this course. Here, you wil
 I expect you to blow our socks off. I want ours to be the best projects at the annual CPSC Showcase event. And, I want these projects to be the way in which you communicate the outcomes of your degree to the outside world.
 
 This component has several learning objectives: first, you will learn how to design a mixed reality experience; second, you will learn how to engage with users (potentially through various failure modes) and to use that feedback to improve your project design; third, you will learn how to work in a team to partition tasks, and finally, you will learn how to present your work in a way that highlights your design process.
-
