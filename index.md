@@ -1,6 +1,6 @@
 # UNDER CONSTRUCTION
 
-This course is currently being modified based on a previous iteration run by Tony Tang. (https://hcitang.github.io/599.90)
+This course is currently being modified based on a previous iteration run by Tony Tang so changes will be made.
 
 ## Design of Mixed Reality Applications
 
