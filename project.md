@@ -1,6 +1,6 @@
 # Project
 
-@TODO remove client focus and update
+This is an old iteration of the project. New projects (without a client) will be used for the course so expect modifications to this page.
 
 In a team (3+ members), you will design a mixed reality user experience. You will meet as a group on a regular basis, working to understand the problem space, design the user experience, develop the user experience, as well as evaluate the user experience to the best of your ability. Your goal here is not to have a "finished product", instead, we are looking for a prototype that illustrates and communicates the user experience of the application.
 
