@@ -15,7 +15,7 @@ This course is run as a 2-2: two hours in the lab for hands-on training with dev
 
 ## Office Hours
 
-* Wednesday, Time TBD (MS680L), and
+* Wednesday, 2-4 (MS680L), and
 * By request
 
 ## Communication
