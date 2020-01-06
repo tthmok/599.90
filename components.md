@@ -25,7 +25,7 @@ In a typical week, you will respond online regarding a reading for the week. Thi
 
 ### [Seminar Topic](topic.md)
 
-You will develop a discussion on a topic of your choice. Ideally selected from the set of available [topics](topic.md). You will identify readings, create a web-based handout, and lead an in-class discussion on the chosen topic. The primary learning objective here is to develop both a depth of understanding in a specific area relating to mixed reality and articulating that understanding in a way that is appropriate for an audience of your peers.
+You will develop a discussion on a topic of your choice. Ideally selected from the set of available [topics]([topic.md](https://tthmok.github.io/599.90/#!topic.md#Possible_Topics)). You will identify readings, create a web-based handout, and lead an in-class discussion on the chosen topic. The primary learning objective here is to develop both a depth of understanding in a specific area relating to mixed reality and articulating that understanding in a way that is appropriate for an audience of your peers.
 
 You will also be paired up with another student and you will provide each other feedback on your respective topics.
 
