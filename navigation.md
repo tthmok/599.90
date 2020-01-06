@@ -9,9 +9,11 @@
  * [Components](components.md)
  * [Participation](participation.md)
  * [Assignments](assignments.md)
- * [Topic](topic.md)
+ * [Seminar Topic](topic.md)
  * [Project](project.md)
 
+[Seminar Topic](topic.md)
+ 
 [Project](project.md)
 
 [Resources](resources.md)
