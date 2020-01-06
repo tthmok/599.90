@@ -28,7 +28,7 @@ Using Unity3D and Vuforia (or another AR tool if you prefer), create a simple au
 * Program your character to move between at least three points in the scene.
 * Trigger an exciting event when the character reaches its final point!
 
-When submitting, please include a README.txt file with instructions describing how to make your project work, as well as any image targets that you use. It may help to submit a video (e.g. a link to something). Your TA may arrange for you to demo the system in lab (or at a time of mutual convenience).
+When submitting, please include a README.txt file with instructions describing how to make your project work, as well as any image targets that you use. It may help to submit a video (e.g. a link to something). I may arrange for you to demo the system in lab (or at a time of mutual convenience).
 
 ## Assignment 2: AR Embodied Hello World
 

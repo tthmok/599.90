@@ -2,11 +2,11 @@
 
 ## Course Objectives
 
-By the end of the course:
+By the end of this course:
 
-* Students will be able to design and implement simple mixed reality applications
-* Students will understand the fundamentals of embodied interaction for mixed reality applications
-* Students will be able to critically evaluate the user experience of mixed reality applications
+* You will be able to design and implement simple mobile augmented reality applications.
+* You will be able to critically judge mixed reality technology usage in various contexts such as for teaching, playing, or communicating.
+* You will be able to communicate through oral and text based discussions about mixed reality applications.
 
 ## Pre-requisites
 

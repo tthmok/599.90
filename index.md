@@ -1,6 +1,6 @@
 # UNDER CONSTRUCTION
 
-This course is currently being modified based on a previous iteration run by Tony Tang so changes will be made.
+This course is currently being modified based on a previous iteration so changes will be made.
 
 ## Design of Mixed Reality Applications
 
@@ -19,5 +19,7 @@ This course is run as a 2-2: two hours in the lab for hands-on training with dev
 * By request
 
 ## Communication
+
+* Slack <https://cpsc59990w2020.slack.com>
 
 ## Tentative Schedule
