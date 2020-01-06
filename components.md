@@ -4,7 +4,7 @@ This is a project-based course with seminar-style components. Thus, you will be 
 
 ## Component Weighting
 
-| Component                         | Weighting % |
+| Component                         | Weighting |
 |-----------------------------------|-------------|
 | [Assignments](assignments.md)     | 15          |
 | [Participation](participation.md) | 20          |

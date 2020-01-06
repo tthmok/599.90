@@ -10,18 +10,18 @@ For the topic you choose you will identify the readings, develop the topic, and 
 
 ## Components
 
-| Component                                     |  %  |
+| Component                                     |  Weighting  |
 |-----------------------------------------------|-----|
-| Topic Part 1: Proposal                        | 1   |
-| Topic Part 2a: Draft Presentation              | 2   |
-| Topic Part 2b: Draft Presentation Partner Feedback            | 2   |
-| Topic Part 3: Seminar Presentation and Reflection                   | 10  |
+| Topic Part 1: Proposal                        | 10  |
+| Topic Part 2a: Draft Presentation              | 25   |
+| Topic Part 2b: Draft Presentation Partner Feedback            | 15   |
+| Topic Part 3: Seminar Presentation and Reflection                   | 50 |
 
 ### Topic Part 1: Proposal
 
 Develop a one paragraph proposal for your topic. This should mainly be identfying the topic, and an early set of four candidate papers (ideally research papers) and two examples (either webpages, images, etc.). You should sketch a brief outline of the kinds of things you think you might discuss for your topic presentation and the webpage.
 
-### Topic Part 2: Draft Presentation
+### Topic Part 2: Draft Presentation and Feedback
 
 (Draft Presentation 2a): Develop a 20-30 minute presentation on the material you have collected. This should be in the form of a powerpoint presentation. It may contain videos, but ensure that the videos do not run (collectively) for over 5 minutes (I want you to be presenting). This presentation should be self-contained, though can link to other materials people may find interesting. Develop an initial set of questions that the class can discuss following your presentation.
 

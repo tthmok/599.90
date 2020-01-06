@@ -6,7 +6,7 @@ In a team (3+ members), you will design a mixed reality user experience. You wil
 
 You will be assessed on the quality and clarity of the communication for each sub-component here. You will also be assessed on your engagement with your team: document your preparations for each meeting, along with the outcomes from that meeting. Finally, you will be evaluated on the final outcome of your project, though you will describe how you expect your project to be evaluated (more on this below).
 
-| Component                                       |  %   |
+| Component                                       |  Weighting   |
 |-------------------------------------------------|------|
 | Project Part 0: Mini-Proposal                   |   0  |
 | Project Part 1: Proposal                        |  20  |

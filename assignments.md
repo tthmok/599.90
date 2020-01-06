@@ -6,10 +6,10 @@ The primary learning objective is to acquire the basic knowledge and practice th
 
 ## Weighting
 
-| Component                                     | Weight |
+| Component                                     | Weighting |
 |-----------------------------------------------|-----|
-| Assignment 1 (A1): AR Hello World             | 5   |
-| Assignment 2 (A2): AR Embodied Hello World    | 10  |
+| Assignment 1 (A1): AR Hello World             | 30  |
+| Assignment 2 (A2): AR Embodied Hello World    | 70  |
 
 ## Submission
 
