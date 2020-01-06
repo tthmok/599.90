@@ -1,4 +1,4 @@
-# Topics
+# Seminar Topics
 
 On a topic of your choice you will identify readings and lead an in-class discussion. The primary learning objective here is to develop both a depth of understanding in a specific area relating to mixed reality experience design, and to articulate that understanding in a way that is appropriate for an audience of your peers.
 
@@ -13,9 +13,9 @@ For the topic you choose you will identify the readings, develop the topic, and 
 | Component                                     |  %  |
 |-----------------------------------------------|-----|
 | Topic Part 1: Proposal                        | 1   |
-| Topic Part 2: Draft Presentation              | 2   |
-|               Draft Presentation Partner Feedback            | 2   |
-| Topic Part 3: Presentation and Reflection                   | 10  |
+| Topic Part 2a: Draft Presentation              | 2   |
+| Topic Part 2b: Draft Presentation Partner Feedback            | 2   |
+| Topic Part 3: Seminar Presentation and Reflection                   | 10  |
 
 ### Topic Part 1: Proposal
 
@@ -29,7 +29,7 @@ For the topic you choose you will identify the readings, develop the topic, and 
 
 (Partner): Given the powerpoint presentation deck, annotate this deck with suggestions on how to improve the presentation. You may also consider developing feedback in a separate document that you provide to the presenter in addition to/instead of annotating the presentation slide deck. Provide this feedback to both the instructor (you will be graded on the quality of your feedback), and to the original author of the powerpoint deck.
 
-### Topic 3: Presentation
+### Topic 3: Seminar Presentation and Reflection
 
 (Primary): You will present your topic for the class based on your original draft, as well as any feedback provided to you by your partner and from me. You will also lead the discussion on the topic. In total, this should run about one hour. You can expect that the students will have read the topic webpage as well as the reading that you have provided in advance of the class. A good way to seed this discussion is through a set of discussion questions.
 
