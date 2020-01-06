@@ -34,4 +34,4 @@ When submitting, please include a README.txt file with instructions describing h
 
 _(due TBD)_
 
-Build on your A1 Submission. Implement "embodied" interaction. For example, import a speech recognition asset or use built-in sensors on your device like accelerometers, gyroscopes, proximity sensors, etc. Get creative! You might control your character with your own movements, you might cause events to happen if you move closer or farther from your targets or your character. Implement at least two types of embodied interaction that affect the progress of your character.
+Build on your A1 Submission. Implement "embodied" interaction. For example, import a speech recognition asset or use built-in sensors on your device like accelerometers, gyroscopes, proximity sensors, etc. Get creative! You might control your character with your own movements, you might cause events to happen if you move closer or farther from your targets or your character. Implement at least **two** types of embodied interaction that affect the progress of your character.
