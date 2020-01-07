@@ -4,7 +4,7 @@ In a team (3+ members), you will design a mixed reality user experience. You wil
 
 ## Concept
 
-Creating interesting augmented reality applications means considering both the virtual and physical world. Simple augmented reality demos, espcially those for mobile phones, tend to simply show some 3D virtual object that looks like it is part of the real world but has no other interactions with it. For this class we are interested in trying to take non-interactive augmented reality a step further. Your applications should impact or be impacted by world.
+Creating interesting augmented reality applications means considering both the virtual and physical world. Simple augmented reality demos, espcially those for mobile phones, tend to simply show some 3D virtual object that looks like it is part of the real world but has no other interactions with it. For this class we are interested in trying to take non-interactive augmented reality a step further. I am interested in applications that impact or are impacted by the world.
 
 Your project will involve the design and creation of an augmented reality application. You will explore your potential designs and how they "blend" the virtual and phsycal world. I am looking for something beyond a 3D visualization that simply exists in a camera's viewfinder.
 
