@@ -15,11 +15,59 @@ This course is run as a 2-2: two hours in the lab for hands-on training with dev
 
 ## Office Hours
 
-* Wednesday, 2-4 (MS680L), and
+* Wednesday, 2-4 (MS680B), and
 * By request
 
 ## Communication
 
 * Slack <https://cpsc59990w2020.slack.com>
 
+## Readings
+
+To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, etc. [instructions here](https://library.ucalgary.ca/c.php?g=255563&p=1704031)
+
 ## Tentative Schedule
+
+***Week of January 13***
+
+* Tuesday Discussion
+  * Intro and logistics
+  * What is AR?
+* Thursday Discussion
+  * AR Fundamentals
+  * Creating groups
+  * Picking topics
+* No Lab
+
+***Week of January 20***
+
+Warning! _Readings_: Nielsen, J. (1993). [Noncommand User Interfaces](https://www.nngroup.com/articles/noncommand/). NN Group. **Response due Monday January 20**
+
+* Tuesday Discussion
+  * UX of Augmented Reality
+* Thursday Discussion
+  * UX of Augmented Reality
+* Lab: Intro to Unity
+
+***Week of January 27***
+
+* Tuesday Discussion
+* Thursday Discussion
+* Lab: Mobile AR
+
+***Week of February 3***
+
+* Tuesday Discussion
+* Thursday Discussion
+* Lab: Mobile AR continued
+
+***Week of February 10***
+
+* Tuesday Discussion
+* Thursday Discussion
+* Lab: Paper prototyping AR
+
+***Week of February 17***
+
+* Reading week. No class. No Lab.
+  
