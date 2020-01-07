@@ -1,8 +1,4 @@
-# UNDER CONSTRUCTION
-
-This course is currently being modified based on a previous iteration so changes will be made.
-
-## Design of Mixed Reality Applications
+# Design of Mixed Reality Applications
 
 Recent innovations in mobile computing technologies, including computing power, sensor fusion, miniaturization of display technology and wireless data are making mixed reality applications a near term reality. This course explores both the social consequences of mixed reality applications, and prepares students for technical challenges of designing such applications. Beyond learning the technical skills to develop these applications and understanding the implications of different input modalities for them, students will learn how to critically design and evaluate mixed reality applications.
 

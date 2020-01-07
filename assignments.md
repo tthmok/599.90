@@ -15,7 +15,7 @@ The primary learning objective is to acquire the basic knowledge and practice th
 
 In both cases, you will have received the training on how to complete the assignment well in advance of the due date. I encourage you to submit early.
 
-To submit, simply send an email to your TA with a link to your github repo for the project. The repo should include a screenshot and explanation of what the TA should expect to see and do when she tries running your code.
+To submit, simply send a link (slack or email) to your github repo for the assignment. The repo should include a screenshot and explanation of what should be expected when running your code.
 
 ## Assignment 1: AR Hello World
 
