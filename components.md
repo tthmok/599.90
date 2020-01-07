@@ -1,6 +1,6 @@
 # Assessment Components
 
-This is a project-based course with seminar-style components. Thus, you will be evaluated on your completion of written and coding components, contributing to both online and in-person discussion, as well as your engagement with your client.
+This is a project-based course with seminar-style components. Thus, you will be evaluated on your completion of written and coding components, contributing to both online and in-person discussion.
 
 ## Component Weighting
 
