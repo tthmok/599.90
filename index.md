@@ -41,7 +41,7 @@ To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, et
 
 ***Week of January 20***
 
-Warning! _Readings_: Nielsen, J. (1993). [Noncommand User Interfaces](https://www.nngroup.com/articles/noncommand/). NN Group. **Response due Monday January 20**
+Attention: _Readings_: Nielsen, J. (1993). [Noncommand User Interfaces](https://www.nngroup.com/articles/noncommand/). NN Group. **Response due Monday January 20**
 
 * Tuesday Discussion
   * UX of Augmented Reality
