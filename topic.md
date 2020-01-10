@@ -29,13 +29,15 @@ Develop a one paragraph proposal for your topic. This should mainly be identfyin
 
 Please create a short presentation summary of your topic. This should be 2-3 paragraphs that explain what your topic is and what you plan to cover. Also develop an initial set of questions that the class can discuss following your presentation to be included as part of this summary.
 
+Choose one reading that (a portion) of the class will respond to.
+
 ### T2b: Partner Draft Feedback
 
 (Partner Feedback T2b): For another student. Given their presentation deck and summary; annotate their slides with suggestions on how to improve the presentation; point out anything that isn't clear in the summary. You may also consider developing feedback in a separate document that you provide to the presenter in addition to/instead of annotating the presentation slide deck. Provide this feedback to both the instructor (you will be graded on the quality of your feedback), and to the original author of the powerpoint deck.
 
 ### T3: Seminar Presentation and Reflection
 
-(Primary): You will present your topic for the class based on your draft, as well as any feedback provided to you by your partner and from me. You will also lead the discussion on the topic. In total, this should run about 25 to 30 minutes. You can expect that some students will have read the reading that you have provided in advance of the class. A good way to help this discussion along is through posing questions throughout the presentation.
+(Primary): You will present your topic for the class based on your draft, as well as any feedback provided to you by your partner and from me. You will also lead the discussion on the topic. In total, this should run about 25 to 30 minutes. You can expect that some students will have read your chosen reading in advance of the class. A good way to help this discussion along is through posing questions throughout the presentation.
 
 (For your Partner): Your job is to be a helper to start discussion going if necessary. This means that you will be ready to respond to each question posed by the leader of the discussion in case nobody else has anything to say.
 
