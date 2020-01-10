@@ -6,7 +6,9 @@ You will also be paired up with another student to provide each other feedback o
 
 ## Responsibilities
 
-For the topic you choose you will identify the readings, develop the topic, and prepare the presentation. The role of your partner is to help develop the topic idea, and then to provide formal feedback on the suitability of the topic materials, as well as to identify opportunities for improving the materials.
+For the topic you choose you will identify the readings, develop the topic, and prepare the presentation.
+
+The role of your partner is to help develop the topic idea, and then to provide formal feedback on the suitability of the topic materials, as well as to identify opportunities for improving the materials.
 
 ## Components
 
@@ -14,7 +16,7 @@ For the topic you choose you will identify the readings, develop the topic, and 
 |-----------------------------------------------|-----|
 | T1: Proposal                        | 10  |
 | T2a: Draft Presentation              | 25   |
-| Tb: Draft Presentation Partner Feedback            | 15   |
+| T2b: Draft Presentation Partner Feedback            | 15   |
 | T3: Seminar Presentation and Reflection                   | 50 |
 
 ### Topic Part 1: Proposal
@@ -31,9 +33,9 @@ Please create a short presentation summary of your topic. This should be 2-3 par
 
 ### Topic 3: Seminar Presentation and Reflection
 
-(Primary): You will present your topic for the class based on your original draft, as well as any feedback provided to you by your partner and from me. You will also lead the discussion on the topic. In total, this should run about thirty minutes. You can expect that the students will have read the reading that you have provided in advance of the class. A good way to help this discussion along is through a posing questions throughout the presentation.
+(Primary): You will present your topic for the class based on your draft, as well as any feedback provided to you by your partner and from me. You will also lead the discussion on the topic. In total, this should run about 25 to 30 minutes. You can expect that some students will have read the reading that you have provided in advance of the class. A good way to help this discussion along is through posing questions throughout the presentation.
 
-(Partner): Your job is to be a helper to get discussion going if necessary. This means that you will be ready to respond to each question posed by the leader of the discussion in case nobody else has anything to say.
+(For your Partner): Your job is to be a helper to start discussion going if necessary. This means that you will be ready to respond to each question posed by the leader of the discussion in case nobody else has anything to say.
 
 (Primary): Once you have completed your presentation, you will write a short half-page reflection essay on your presentation. Here, you will consider what elements of your presentation went well, and how you could have improved the presentation -- both the deck itself, and in your delivery of the material. Consider here also how you went about leading the discussion, and how this could have been improved as well.
 
