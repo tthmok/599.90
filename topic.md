@@ -54,14 +54,14 @@ Below are a list of possible topics. This list is not exhaustive and should main
 * Situated and embedded visualizations
 * Embodied Interaction Possibilities
 * More Applications
-	* Architecture
-	* Art, cultural heritage, education and training
-	* Automotive and aerospace
-	* Entertainment, broadcast
-	* Industrial, military, emergency response
-	* Health, wellbeing, and medical
-	* Personal information systems
-	* Visual effects / video processing
+  * Architecture
+  * Art, cultural heritage, education and training
+  * Automotive and aerospace
+  * Entertainment, broadcast
+  * Industrial, military, emergency response
+  * Health, wellbeing, and medical
+  * Personal information systems
+  * Visual effects / video processing
 
 **Note**: You can propose your own topic. One way to do this is to explore proceedings of conferences like the [International Symposium on Mixed and Augmented Reality](https://dblp.org/db/conf/ismar/index), or the [SIGCHI Conference on Human-Computer Interaction (CHI)](https://dblp.uni-trier.de/db/conf/chi/), or the [User Interface Software and Technology conferences](https://dblp.uni-trier.de/db/conf/uist/).
 
