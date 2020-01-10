@@ -16,22 +16,24 @@ The role of your partner is to help develop the topic idea, and then to provide 
 |-----------------------------------------------|-----|
 | T1: Proposal                        | 10  |
 | T2a: Draft Presentation              | 25   |
-| T2b: Draft Presentation Partner Feedback            | 15   |
+| T2b: Partner Draft Feedback            | 15   |
 | T3: Seminar Presentation and Reflection                   | 50 |
 
-### Topic Part 1: Proposal
+### T1: Proposal
 
-Develop a one paragraph proposal for your topic. This should mainly be identfying the topic, and an early set of three candidate papers (ideally research papers) and two examples (either webpages, images, etc.). You should sketch a brief outline of the kinds of things you think you might discuss for your topic presentation and the webpage.
+Develop a one paragraph proposal for your topic. This should mainly be identfying the topic, and a set of three candidate papers (likely research papers) and two examples (webpages, videos, commercial application etc.). You should sketch a brief outline of the kinds of things you think you might discuss for your topic presentation.
 
-### Topic Part 2: Draft Presentation and Feedback
+### T2a: Draft Presentation
 
 (Draft Presentation T2a): Develop a 20-30 minute presentation on the material you have collected. This should be in the form of a slide presentation. It may contain videos, but ensure that the videos do not run (collectively) for over 3 minutes (I want you to be presenting). This presentation should be self-contained, though can link to other materials people may find interesting.
 
 Please create a short presentation summary of your topic. This should be 2-3 paragraphs that explain what your topic is and what you plan to cover. Also develop an initial set of questions that the class can discuss following your presentation to be included as part of this summary.
 
+### T2b: Partner Draft Feedback
+
 (Partner Feedback T2b): For another student. Given their presentation deck and summary; annotate their slides with suggestions on how to improve the presentation; point out anything that isn't clear in the summary. You may also consider developing feedback in a separate document that you provide to the presenter in addition to/instead of annotating the presentation slide deck. Provide this feedback to both the instructor (you will be graded on the quality of your feedback), and to the original author of the powerpoint deck.
 
-### Topic 3: Seminar Presentation and Reflection
+### T3: Seminar Presentation and Reflection
 
 (Primary): You will present your topic for the class based on your draft, as well as any feedback provided to you by your partner and from me. You will also lead the discussion on the topic. In total, this should run about 25 to 30 minutes. You can expect that some students will have read the reading that you have provided in advance of the class. A good way to help this discussion along is through posing questions throughout the presentation.
 
