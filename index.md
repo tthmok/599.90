@@ -33,35 +33,35 @@ To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, et
   * AR Fundamentals
   * Creating groups
   * Picking topics
-* No Lab
+* Intro to Unity 3D
 
 ***Week of January 20***
 
-Attention: _Readings_: Nielsen, J. (1993). [Noncommand User Interfaces](https://www.nngroup.com/articles/noncommand/). NN Group. **Response due Monday January 20, 10pm**
+Attention: _Reading_: Nielsen, J. (1993). [Noncommand User Interfaces](https://www.nngroup.com/articles/noncommand/). NN Group. **Response due Monday January 20, 10pm**
 
 * Tuesday Discussion
   * UX of Augmented Reality
 * Thursday Discussion
   * UX of Augmented Reality
-* Lab: Intro to Unity
+* Lab: Intro to Vuforia
 
 ***Week of January 27***
 
 * Tuesday Discussion
 * Thursday Discussion
-* Lab: Mobile AR
+* Lab: TBD
 
 ***Week of February 3***
 
 * Tuesday Discussion
 * Thursday Discussion
-* Lab: Mobile AR continued
+* Lab: TBD
 
 ***Week of February 10***
 
 * Tuesday Discussion
 * Thursday Discussion
-* Lab: Paper prototyping AR
+* Lab: TBD
 
 ***Week of February 17***
 
