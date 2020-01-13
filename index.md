@@ -31,8 +31,8 @@ To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, et
   * What is AR?
 * Thursday Discussion
   * AR Fundamentals
-  * Creating groups
   * Picking topics
+  * Creating groups
 * Intro to Unity 3D
 
 ***Week of January 20***
