@@ -4,7 +4,7 @@ A large component of your assessment is based on your thoughtful participation i
 
 Each week, a new set of readings will be posted. You are responsible for reading these, and responding to these readings in at least one written paragraph. These are Monday each week at 10pm.
 
-Note: During the in class discussion, I also expect you to contribute to the conversation. (I know this is hard for introverts, which is why you have a week to prepare your thoughts in written form.)
+Note: During the in class discussion, I also expect you to contribute to the conversation. (I know this is hard for introverts, which is why you have time to prepare your thoughts in written form.)
 
 In both cases, you may build off of, or respond to others' contributions, or simply strike it out on your own.
 
