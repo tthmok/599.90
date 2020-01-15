@@ -21,7 +21,7 @@ The role of your partner is to help develop the topic idea, and then to provide 
 
 ### T1: Proposal
 
-Develop a one paragraph proposal for your topic. This should mainly be identfying the topic, and a set of three candidate papers (likely research papers) and two examples (webpages, videos, commercial application etc.). You should sketch a brief outline of the kinds of things you think you might discuss for your topic presentation.
+Develop a one paragraph proposal for your topic. This should mainly be identfying the topic, and a set of three candidate papers (likely research papers) and 1 to 2 examples (webpages, videos, commercial application etc.). You should sketch a brief outline of the kinds of things you think you might discuss for your topic presentation.
 
 ### T2a: Draft Presentation
 
