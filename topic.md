@@ -23,6 +23,17 @@ The role of your partner is to help develop the topic idea, and then to provide 
 
 Develop a one paragraph proposal for your topic. This should mainly be identfying the topic, and a set of three candidate papers (likely research papers). You should sketch a brief outline of the kinds of things you think you might discuss for your topic presentation.
 
+## Finding Research Papers
+
+* <https://dl.acm.org/>
+* <https://dblp.uni-trier.de/>
+* <https://ieeexplore.ieee.org/>
+* <https://scholar.google.ca>
+* <https://library.ucalgary.ca/az.php>
+
+Access off campus
+<https://library.ucalgary.ca/c.php?g=255563&p=1704031>
+
 ### T2a: Draft Presentation
 
 (Draft Presentation T2a): Develop a 25-30 minute presentation on the material you have collected. This should be in the form of a slide presentation. It may contain videos, but ensure that the videos do not run (collectively) for over 3 minutes (I want you to be presenting). This presentation should be self-contained, though can link to other materials people may find interesting.
