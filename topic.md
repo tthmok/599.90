@@ -21,11 +21,11 @@ The role of your partner is to help develop the topic idea, and then to provide 
 
 ### T1: Proposal
 
-Develop a one paragraph proposal for your topic. This should mainly be identfying the topic, and a set of three candidate papers (likely research papers) and 1 to 2 examples (webpages, videos, commercial application etc.). You should sketch a brief outline of the kinds of things you think you might discuss for your topic presentation.
+Develop a one paragraph proposal for your topic. This should mainly be identfying the topic, and a set of three candidate papers (likely research papers). You should sketch a brief outline of the kinds of things you think you might discuss for your topic presentation.
 
 ### T2a: Draft Presentation
 
-(Draft Presentation T2a): Develop a 20-30 minute presentation on the material you have collected. This should be in the form of a slide presentation. It may contain videos, but ensure that the videos do not run (collectively) for over 3 minutes (I want you to be presenting). This presentation should be self-contained, though can link to other materials people may find interesting.
+(Draft Presentation T2a): Develop a 25-30 minute presentation on the material you have collected. This should be in the form of a slide presentation. It may contain videos, but ensure that the videos do not run (collectively) for over 3 minutes (I want you to be presenting). This presentation should be self-contained, though can link to other materials people may find interesting.
 
 Please create a short presentation summary of your topic. This should be 2-3 paragraphs that explain what your topic is and what you plan to cover. Also develop an initial set of questions that the class can discuss following your presentation to be included as part of this summary.
 
