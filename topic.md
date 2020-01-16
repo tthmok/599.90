@@ -23,7 +23,7 @@ The role of your partner is to help develop the topic idea, and then to provide 
 
 Develop a one paragraph proposal for your topic. This should mainly be identfying the topic, and a set of three candidate papers (likely research papers). You should sketch a brief outline of the kinds of things you think you might discuss for your topic presentation.
 
-## Finding Research Papers
+#### Finding Research Papers
 
 * <https://dl.acm.org/>
 * <https://dblp.uni-trier.de/>
