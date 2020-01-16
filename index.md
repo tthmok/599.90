@@ -39,6 +39,10 @@ To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, et
 
 Attention: _Reading_: Nielsen, J. (1993). [Noncommand User Interfaces](https://www.nngroup.com/articles/noncommand/). NN Group. **Response due Monday January 20, 10pm** [What should a response consist of? Click here.](participation.md)
 
+Attention: **T1:Proposal Due Friday Jan 24, 10pm** (topic.md)
+
+Attention: **P0:Mini-Proposal Due Friday Jan 24, 10pm** (project.md)
+
 * Tuesday Discussion
   * UX of Augmented Reality
 * Thursday Discussion
