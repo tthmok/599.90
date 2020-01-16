@@ -31,6 +31,6 @@ You will also be paired up with another student and you will provide each other 
 
 ### [Project](project.md)
 
-The project is the primary "development" component of this course. Here, you will design and develop a mixed reality experience. You will be assessed on your progress and improvement of your project (via documentation), a clear articulation of what you expect to develop (in the proposal), and a clear articulation of what you have developed (in the final report) based on feedback from your peers. This is a team-based project component, though the size of your project team is up to you (my recommendation is to select a team size of three peers or more).
+The project is the primary "development" component of this course. Here, you will design and develop a mixed reality experience. You will be assessed on your progress and improvement of your project (via documentation), a clear articulation of what you expect to develop (in the proposal), and a clear articulation of what you have developed (in the final report) based on feedback from your peers. This is a team-based project component with 3-4 members.
 
 This component has several learning objectives: first, you will learn how to design a mixed reality experience; second, you will learn how to engage with users and to use that feedback to improve your project design; third, you will learn how to work in a team to partition tasks, and finally, you will learn how to present your work in a way that highlights your design process.
