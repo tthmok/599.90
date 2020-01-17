@@ -41,7 +41,6 @@ Attention: _Reading_: Nielsen, J. (1993). [Noncommand User Interfaces](https://w
 
 Attention: **T1:Proposal Due Friday Jan 24, 10pm** [Topic Page](topic.md)
 
-Attention: **P0:Mini-Proposal Due Friday Jan 24, 10pm** [Project Page](project.md)
 
 * Tuesday Discussion
   * UX of Augmented Reality
@@ -50,6 +49,8 @@ Attention: **P0:Mini-Proposal Due Friday Jan 24, 10pm** [Project Page](project.m
 * Lab: Intro to Vuforia
 
 ***Week of January 27***
+
+Attention: **P0:Mini-Proposal Tenatively Due Tuesday Jan 28, 10pm** [Project Page](project.md)
 
 * Tuesday Discussion
 * Thursday Discussion
