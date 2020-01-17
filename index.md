@@ -33,7 +33,7 @@ To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, et
   * AR Fundamentals
   * Picking topics
   * Creating groups
-* Intro to Unity 3D
+* Intro to Unity 3D: [Slides](https://www.dropbox.com/s/mtz8qut8po4qtuz/Tutorial%201%20-%20Intro%20to%20Unity.pptx?dl=0)
 
 ***Week of January 20***
 
@@ -46,7 +46,7 @@ Attention: **T1:Proposal Due Friday Jan 24, 10pm** [Topic Page](topic.md)
   * UX of Augmented Reality
 * Thursday Discussion
   * UX of Augmented Reality
-* Lab: Intro to Vuforia
+* Lab: TBD
 
 ***Week of January 27***
 
