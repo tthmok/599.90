@@ -23,9 +23,9 @@ Project Parts 1 to 3 will also have corresponding in-class presentations where y
 
 ## Part 0: Mini-Proposal
 
-Develop a one paragraph mini-proposal that describes the basic idea for the project and the team members (and their anticipated "roles"), and whatever else you think Terrance should know.
+Develop a one paragraph mini-proposal that describes the basic idea for the project and the team members (and their anticipated "roles"), when you plan to have meetings, and whatever else you think Terrance should know.
 
-To submit, create a submission channel for your group in Slack (e.g. #teamCoolSubmission), and add Terrance. Submit the paragraph as a message to the message with me @'ed.
+To submit, use your project channel for your group in Slack (e.g. #project-xyz), and add Terrance. Submit the paragraph as a message to the channel with me @'ed.
 
 ## Part 1: Proposal
 
