@@ -54,6 +54,14 @@ Choose one reading that (a portion) of the class will respond to.
 
 (Primary): Once you have completed your presentation, you will write a short half-page reflection essay on your presentation. Here, you will consider what elements of your presentation went well, and how you could have improved the presentation -- both the deck itself, and in your delivery of the material. Consider here also how you went about leading the discussion, and how this could have been improved as well.
 
+#### Seminar Topic Presentations
+
+The week before your assigned presentation day:
+
+1. Post in the #discussion channel a short intro to your topic
+2. In your short intro link the reading you have chosen for the class
+3. Read people's responses to your reading so that you respond during your seminar
+
 ## Possible Topics
 
 Below are a list of possible topics. This list is not exhaustive and should mainly be considered as a set of suggestions.

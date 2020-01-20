@@ -21,14 +21,6 @@ I will evaluate you based on the novelty and clarity of your contributions. Thes
 
 At any time, I am happy to provide you with verbal feedback if you'd like more clarity as to my thinking.
 
-## Seminar Topic Presentations
-
-The week before your assigned presentation day:
-
-1. Post in the #discussion channel a short intro to your topic
-2. In your short intro link the reading you have chosen for the class
-3. Read people's responses to your reading so that you respond during your seminar
-
 ## What is a good response?
 
 I don't need a summary of the reading. A good response is novel (i.e. presents a new idea), and is written clearly (i.e. others can understand what you mean). It does not have to be long. 1 to 2 paragraphs is fine, 1 page is too long. 
