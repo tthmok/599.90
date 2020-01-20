@@ -44,7 +44,7 @@ Attention: **T1:Proposal Due Friday Jan 24, 10pm** [Topic Page](topic.md)
   * AR Fundamentals
 * Thursday Discussion
   * UX of Augmented Reality
-* Lab: Intro to Vuforia AR
+* Lab: Intro to Vuforia AR and Assignment 1
 
 ***Week of January 27***
 
