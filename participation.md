@@ -31,7 +31,7 @@ The week before your assigned presentation day:
 
 ## What is a good response?
 
-A good response is novel (i.e. presents a new idea), and is written clearly (i.e. others can understand what you mean).
+I don't need a summary of the reading. A good response is novel (i.e. presents a new idea), and is written clearly (i.e. others can understand what you mean). It does not have to be long. 1 to 2 paragraphs is fine, 1 page is too long. 
 
 It is hard to provide a prescription for doing this, since it varies based on the reading itself. What I am asking you to do is to really *think* about what is in the writing, and then *reflect* on it. For example:
 
