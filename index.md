@@ -42,7 +42,6 @@ Attention: **T1:Proposal Due Friday Jan 24, 10pm** [Topic Page](topic.md)
 
 * Tuesday Discussion
   * AR Fundamentals
-  * UX of Augmented Reality
 * Thursday Discussion
   * UX of Augmented Reality
 * Lab: Intro to Vuforia AR
