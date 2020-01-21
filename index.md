@@ -22,6 +22,14 @@ This course is run as a 2-2: two hours in the lab for hands-on training with dev
 
 To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, etc. [instructions here](https://library.ucalgary.ca/c.php?g=255563&p=1704031)
 
+## Tentative Due Dates
+
+* T1. Friday Jan 24, 10pm
+* P0. Tuesday Jan 28, 10pm
+* P1. Friday Feb 7, 10pm
+* A1. Friday Feb 14, 10pm
+* T2a. Friday Feb 14, 10pm
+
 ## Tentative Schedule
 
 ***Week of January 13***
@@ -88,7 +96,6 @@ Attention: **T2b: Partner Draft Feedback Due Friday 28, 10pm** [Topic Page](topi
 ***Week of March 2***
 
 Attention: **Project Progress Presentation** [Project Page](project.md)
-Attention: **T2b: Partner Draft Feedback Due Friday 28, 10pm** [Topic Page](topic.md)
 
 * Tuesday Discussion
 * Thursday Discussion
