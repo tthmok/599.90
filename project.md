@@ -31,19 +31,25 @@ Attention: **P0:Mini-Proposal Tenatively Due Tuesday Jan 28, 10pm**
 
 ## Part 1: Proposal
 
-The proposal should provide a clear high-level picture of what you are planning on designing and developing. You will also explore your design and development goal by providing a set of early sketches, a tentative rubric for how you expect your project to be evaluated, and a timeline for your project.
+The proposal should provide a clear high-level picture of what you are planning on designing and developing. You will also explore your design and development goal by providing a set of early sketches, notes from team meetings, and a timeline for your project.
 
 Criteria for evaluation on this component:
 
 * How clear is the goal of the project?
-* How clear is the outcome of the project from a user experience perspective? (illustrated via the sketches/prototypes)
+* How clear is the outcome of the project from a user experience perspective? (illustrated via sketches and writing)
+* How clear are the results of your team meetings? For example, include who was at each meeting, what tasks were assigned to each person, what aspects of the project were discussed or reviewed.
 * How realistic is the timeline?
-* How appropriate is the evaluation rubric?
 
-This component should be submitted as a PDF report via your Slack submission channel. Sketches should be included in the document (or via self-contained zip file if using some external tool). Summaries of team meetings should also be included as an appendix.
+***Sketches***
+Each person in your team should create at least 5 sketches of potential interactions in your application. Thus there should be at least 15 sketches in your report. Sketches should be labelled when necessary to help explain.
 
 ***Presentation***
 You will develop and give a five-minute presentation (PPT) based on your proposal.
+
+***Deliverable***
+This component should be submitted as a PDF report via your Slack project channel. Sketches should be included in the document (or via self-contained zip file if using some external tool). Summaries of team meetings should also be included as an appendix.
+
+Attention: **P1:Proposal Tenatively Due Tuesday Feb 11, 10pm**
 
 ## Part 2: Progress Report and Critique
 

@@ -36,8 +36,6 @@ To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, et
 
 ***Week of January 20***
 
-Attention: _Reading_: Nielsen, J. (1993). [Noncommand User Interfaces](https://www.nngroup.com/articles/noncommand/). NN Group. **Response due Monday January 20, 10pm** [What should a response consist of? Click here.](participation.md)
-
 Attention: **T1:Proposal Due Friday Jan 24, 10pm** [Topic Page](topic.md)
 
 * Tuesday Discussion
@@ -45,8 +43,11 @@ Attention: **T1:Proposal Due Friday Jan 24, 10pm** [Topic Page](topic.md)
 * Thursday Discussion
   * UX of Augmented Reality
 * Lab: Intro to Vuforia AR and Assignment 1
+* Reading: Nielsen, J. (1993). [Noncommand User Interfaces](https://www.nngroup.com/articles/noncommand/)
 
 ***Week of January 27***
+
+Attention: _Reading_: Jacob, J. K., et al. (2008). [Reality-based interaction: a framework for post-WIMP interfaces](https://dl.acm.org/doi/10.1145/1357054.1357089). CHI 2008. **Response due Monday January 27, 10pm**
 
 Attention: **P0:Mini-Proposal Tenatively Due Tuesday Jan 28, 10pm** [Project Page](project.md)
 
@@ -56,11 +57,17 @@ Attention: **P0:Mini-Proposal Tenatively Due Tuesday Jan 28, 10pm** [Project Pag
 
 ***Week of February 3***
 
+Attention: **Project Proposal Presentation Tuesday Feb 6** [Project Page](project.md)
+Attention: **P1:Proposal Tenatively Due Friday Feb 7, 10pm** [Project Page](project.md)
+
 * Tuesday Discussion
-* Thursday Discussion
+* Thursday Discussion: Proposal Presentations
 * Lab: TBD
 
 ***Week of February 10***
+
+Attention: **A1:Due Friday Feb 14, 10pm** [Assignments Page](assignments.md)
+Attention: **T2a:Draft Presentation Tenatively Due Friday Feb 14, 10pm** [Topic Page](topic.md)
 
 * Tuesday Discussion
 * Thursday Discussion
@@ -70,3 +77,19 @@ Attention: **P0:Mini-Proposal Tenatively Due Tuesday Jan 28, 10pm** [Project Pag
 
 * Reading week. No class. No Lab.
   
+***Week of February 24***
+
+Attention: **T2b: Partner Draft Feedback Due Friday 28, 10pm** [Topic Page](topic.md)
+
+* Tuesday Discussion
+* Thursday Discussion
+* Lab: TBD
+
+***Week of March 2***
+
+Attention: **Project Progress Presentation** [Project Page](project.md)
+Attention: **T2b: Partner Draft Feedback Due Friday 28, 10pm** [Topic Page](topic.md)
+
+* Tuesday Discussion
+* Thursday Discussion
+* Lab: TBD
