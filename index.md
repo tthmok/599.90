@@ -24,11 +24,17 @@ To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, et
 
 ## Tentative Due Dates
 
-* T1. Friday Jan 24, 10pm
-* P0. Tuesday Jan 28, 10pm
-* P1. Friday Feb 7, 10pm
-* A1. Friday Feb 14, 10pm
-* T2a. Friday Feb 14, 10pm
+All due dates are at 10pm.
+
+* T1. Friday Jan 24
+* P0. Tuesday Jan 28
+* P1. Friday Feb 7
+* A1. Friday Feb 14
+* T2a. Friday Feb 14
+* T2b. Friday Feb 28
+* A2. Friday Mar 6
+* P2. Friday Mar 13
+* P3. Friay Apr 17
 
 ## Tentative Schedule
 
