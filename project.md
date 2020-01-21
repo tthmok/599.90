@@ -27,6 +27,8 @@ Develop a one paragraph mini-proposal that describes the basic idea for the proj
 
 To submit, use your project channel for your group in Slack (e.g. #project-xyz), and add Terrance. Submit the paragraph as a message to the channel with me @'ed.
 
+Attention: **P0:Mini-Proposal Tenatively Due Tuesday Jan 28, 10pm**
+
 ## Part 1: Proposal
 
 The proposal should provide a clear high-level picture of what you are planning on designing and developing. You will also explore your design and development goal by providing a set of early sketches, a tentative rubric for how you expect your project to be evaluated, and a timeline for your project.
