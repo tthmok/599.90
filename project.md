@@ -27,7 +27,7 @@ Develop a one paragraph mini-proposal that describes the basic idea for the proj
 
 To submit, use your project channel for your group in Slack (e.g. #project-xyz), and add Terrance. Submit the paragraph as a message to the channel with me @'ed.
 
-Attention: **P0:Mini-Proposal Tenatively Due Tuesday Jan 28, 10pm**
+Attention: **P0:Mini-Proposal Due Tuesday Jan 28, 10pm**
 
 ## Part 1: Proposal
 
