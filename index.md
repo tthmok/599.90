@@ -63,7 +63,7 @@ Attention: **T1:Proposal Due Friday Jan 24, 10pm** [Topic Page](topic.md)
 
 Attention: _Reading_: Jacob, J. K., et al. (2008). [Reality-based interaction: a framework for post-WIMP interfaces](https://dl.acm.org/doi/10.1145/1357054.1357089). CHI 2008. **Response due Monday January 27, 10pm**
 
-Attention: **P0:Mini-Proposal Tenatively Due Tuesday Jan 28, 10pm** [Project Page](project.md)
+Attention: **P0:Mini-Proposal Due Tuesday Jan 28, 10pm** [Project Page](project.md)
 
 * Tuesday Discussion
 * Thursday Discussion
