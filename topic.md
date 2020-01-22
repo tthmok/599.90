@@ -21,6 +21,8 @@ The role of your partner is to help develop the topic idea, and then to provide 
 
 ### T1: Proposal
 
+Attention: **T1:Proposal Due Friday Jan 24, 10pm** [Topic Page](topic.md)
+
 Develop a one paragraph proposal for your topic. This should mainly be identfying the topic, and a set of three candidate papers (likely research papers). You should sketch a brief outline of the kinds of things you think you might discuss for your topic presentation.
 
 #### Finding Research Papers
