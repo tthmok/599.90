@@ -36,4 +36,4 @@ It is hard to provide a prescription for doing this, since it varies based on th
 * What aspects of this reading are interesting given recent developments? (And wouldn't have been interesting five years ago?)
 * What should researchers or developers be thinking about in the next five years?
 
-Please go beyond these questions in your thought process! These are only examples.
+**Please go beyond these questions in your thought process!** These are only examples.
