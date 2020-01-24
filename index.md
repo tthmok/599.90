@@ -56,7 +56,7 @@ Attention: **T1:Proposal Due Friday Jan 24, 10pm** [Topic Page](topic.md)
   * AR Fundamentals
 * Thursday Discussion
   * UX of Augmented Reality
-* Lab: Intro to Vuforia AR and Assignment 1
+* Lab: Intro to Vuforia AR and Assignment 1: [Slides](https://www.dropbox.com/s/hxjtu8fmcl63o1l/Tutorial%202%20-%20Intro%20to%20Vuforia%20and%20A1.pptx?dl=0)
 * Reading: Nielsen, J. (1993). [Noncommand User Interfaces](https://www.nngroup.com/articles/noncommand/)
 
 ***Week of January 27***
