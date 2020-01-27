@@ -26,7 +26,6 @@ To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, et
 
 All due dates are at 10pm.
 
-* T1. Friday Jan 24
 * P0. Tuesday Jan 28
 * P1. Friday Feb 7
 * A1. Friday Feb 14
@@ -49,8 +48,6 @@ All due dates are at 10pm.
 * Intro to Unity 3D: [Slides](https://www.dropbox.com/s/mtz8qut8po4qtuz/Tutorial%201%20-%20Intro%20to%20Unity.pptx?dl=0)
 
 ***Week of January 20***
-
-Attention: **T1:Proposal Due Friday Jan 24, 10pm** [Topic Page](topic.md)
 
 * Tuesday Discussion
   * AR Fundamentals
