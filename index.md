@@ -26,7 +26,6 @@ To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, et
 
 All due dates are at 11:59 pm.
 
-* P0. Tuesday Jan 28
 * P1. Friday Feb 7
 * A1. Friday Feb 14
 * T2a. Friday Feb 14
