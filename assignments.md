@@ -19,7 +19,7 @@ To submit, simply send a link (slack or email) to your github repo for the assig
 
 ## Assignment 1: AR Hello World
 
-Attention: **A1:Due Friday Feb 14, 10pm** [Assignments Page](assignments.md)
+Attention: **A1:Due Friday Feb 14, 11:59pm** [Assignments Page](assignments.md)
 
 Using Unity3D and Vuforia (or another AR tool if you prefer), create a simple augmented reality application.
 

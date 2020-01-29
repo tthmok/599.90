@@ -2,7 +2,7 @@
 
 A large component of your assessment is based on your thoughtful participation in discussions on the topic that we discuss each week. As a part seminar-style class, the focus is on encouraging you to develop your own critical thoughts on the matters being discussed, as well as both your writing and oral skills in presenting these ideas with clarity (arguing them, as necessary).
 
-Each week, a new set of readings will be posted. You are responsible for reading these, and responding to these readings in at least one written paragraph. These are Monday each week at 10pm.
+Each week, a new set of readings will be posted. You are responsible for reading these, and responding to these readings in at least one written paragraph. These are Monday each week at 11:59pm.
 
 Note: During the in class discussion, I also expect you to contribute to the conversation. (I know this is hard for introverts, which is why you have time to prepare your thoughts in written form.)
 

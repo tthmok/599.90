@@ -24,7 +24,7 @@ To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, et
 
 ## Tentative Due Dates
 
-All due dates are at 10pm.
+All due dates are at 11:59 pm.
 
 * P0. Tuesday Jan 28
 * P1. Friday Feb 7
@@ -58,27 +58,25 @@ All due dates are at 10pm.
 
 ***Week of January 27***
 
-Attention: _Reading_: Jacob, J. K., et al. (2008). [Reality-based interaction: a framework for post-WIMP interfaces](https://dl.acm.org/doi/10.1145/1357054.1357089). CHI 2008. **Response due Monday January 27, 10pm**
-
-Attention: **P0:Mini-Proposal Due Tuesday Jan 28, 10pm** [Project Page](project.md)
-
 * Tuesday Discussion
 * Thursday Discussion
 * Lab: TBD
+* Reading: Jacob, J. K., et al. (2008). [Reality-based interaction: a framework for post-WIMP interfaces](https://dl.acm.org/doi/10.1145/1357054.1357089). CHI 2008.
 
 ***Week of February 3***
 
-Attention: **Project Proposal Presentation Tuesday Feb 6** [Project Page](project.md)
-Attention: **P1:Proposal Tenatively Due Friday Feb 7, 10pm** [Project Page](project.md)
+Attention: **P1: Project Proposal Presentation in class Tuesday Feb 6** [Project Page](project.md)
+Attention: **P1:Proposal Due Friday Feb 7, 11:59pm** [Project Page](project.md)
 
+* No reading response this week
 * Tuesday Discussion
 * Thursday Discussion: Proposal Presentations
 * Lab: TBD
 
 ***Week of February 10***
 
-Attention: **A1:Due Friday Feb 14, 10pm** [Assignments Page](assignments.md)
-Attention: **T2a:Draft Presentation Tenatively Due Friday Feb 14, 10pm** [Topic Page](topic.md)
+Attention: **A1:Due Friday Feb 14, 11:59pm** [Assignments Page](assignments.md)
+Attention: **T2a:Draft Presentation Due Friday Feb 14, 11:59pm** [Topic Page](topic.md)
 
 * Tuesday Discussion
 * Thursday Discussion
@@ -90,7 +88,7 @@ Attention: **T2a:Draft Presentation Tenatively Due Friday Feb 14, 10pm** [Topic 
   
 ***Week of February 24***
 
-Attention: **T2b: Partner Draft Feedback Due Friday 28, 10pm** [Topic Page](topic.md)
+Attention: **T2b: Partner Draft Feedback Due Friday 28, 11:59pm** [Topic Page](topic.md)
 
 * Tuesday Discussion
 * Thursday Discussion

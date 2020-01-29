@@ -29,7 +29,7 @@ To submit, use your project channel for your group in Slack (e.g. #project-xyz),
 
 ## Part 1: Proposal
 
-Attention: **P1:Proposal Due Friday Feb 7, 10pm**
+Attention: **P1:Proposal Due Friday Feb 7, 11:59pm**
 
 The proposal should provide a clear high-level picture of what you are planning on designing and developing. You will also explore your design and development goal by providing a set of early sketches, notes from team meetings, and a timeline for your project.
 
