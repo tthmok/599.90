@@ -27,11 +27,9 @@ Develop a one paragraph mini-proposal that describes the basic idea for the proj
 
 To submit, use your project channel for your group in Slack (e.g. #project-xyz), and add Terrance. Submit the paragraph as a message to the channel with me @'ed.
 
-Attention: **P0:Mini-Proposal Due Tuesday Jan 28, 10pm**
-
 ## Part 1: Proposal
 
-Attention: **P1:Proposal Tenatively Due Friday Feb 7, 10pm**
+Attention: **P1:Proposal Due Friday Feb 7, 10pm**
 
 The proposal should provide a clear high-level picture of what you are planning on designing and developing. You will also explore your design and development goal by providing a set of early sketches, notes from team meetings, and a timeline for your project.
 
@@ -47,6 +45,8 @@ Each person in your team should create at least 5 sketches of potential interact
 
 ***Presentation***
 You will develop and give a five-minute presentation (PPT) based on your proposal.
+
+Attention: **P1:Presentation in class Thursday Feb 6**
 
 ***Deliverable***
 This component should be submitted as a PDF report via your Slack project channel. Sketches should be included in the document (or via self-contained zip file if using some external tool). Summaries of team meetings should also be included as an appendix.
