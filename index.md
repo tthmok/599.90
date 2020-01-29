@@ -59,7 +59,7 @@ All due dates are at 11:59 pm.
 
 * Tuesday Discussion
 * Thursday Discussion
-* Lab: TBD
+* Lab: TFDL LabNext on 3rd floor - Try Hololens and VR
 * Reading: Jacob, J. K., et al. (2008). [Reality-based interaction: a framework for post-WIMP interfaces](https://dl.acm.org/doi/10.1145/1357054.1357089). CHI 2008.
 
 ***Week of February 3***
