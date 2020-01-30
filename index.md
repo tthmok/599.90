@@ -64,7 +64,7 @@ All due dates are at 11:59 pm.
 
 ***Week of February 3***
 
-Attention: **P1: Project Proposal Presentation in class Tuesday Feb 6** [Project Page](project.md)
+Attention: **P1: Project Proposal Presentation in class Thursday Feb 6** [Project Page](project.md)
 Attention: **P1:Proposal Due Friday Feb 7, 11:59pm** [Project Page](project.md)
 
 * No reading response this week
