@@ -44,7 +44,7 @@ Criteria for evaluation on this component:
 Each person in your team should create at least 5 sketches of potential interactions in your application. Thus there should be at least 15 sketches in your report. You will be graded on clarity of your sketches as individuals. You don't have to be an artist just try to make things clear and understandable. Use labelling and additional notes liberally on sketches to help explain.
 
 ***Presentation***
-You will develop and give a five-minute presentation (PPT) based on your proposal.
+You will develop and give a five-minute presentation based on your proposal.
 
 Attention: **P1:Presentation in class Thursday Feb 6**
 
