@@ -53,7 +53,7 @@ This component should be submitted as a PDF report via your Slack project channe
 
 ## Part 2: Progress Report and Critique
 
-This report should provide a clear understanding of the expected user experience, the challenges your team has faced, and how you will resolve or address these challenges. You should provide a video prototype of your expected user experience, where components that have been developed should be shown in "working" order, and the other components mocked up. Your progress report should illustrate the depth of your design exploration. How you explore your design and provide evidence of that exploration is up to you and will be unique for each project. Some possible ideas include but are not limited to creating additional sketches, simple prototypes, feedback from peers, and performing a heuristic evaluation. You should revisit your timeline.
+This report should provide a clear understanding of the expected user experience, the challenges your team has faced, and how you will resolve or address these challenges. You should provide a video prototype of your expected user experience, where components that have been developed should be shown in "working" order, and the other components mocked up. Your progress report should illustrate the depth of your design exploration. How you explore your design and provide evidence of that exploration is up to you and will be unique for each project. Some possible ideas include but are not limited to; creating additional sketches, simple prototypes, feedback from peers, and performing a heuristic evaluation. You should revisit your timeline.
 
 New to this component is a tentative plan for further evaluating the mixed reality user experience.
 
@@ -68,7 +68,10 @@ Criteria for evaluation on this component:
 * How clear are the results of your team meetings?
 
 ***Presentation***
-You will develop and give a ten-minute presentation based on your progress, and engage in a constructive critique session with your  classmates.
+You will develop and give a ten-minute presentation based on your progress, and engage in a constructive critique session with your classmates.
+
+***Deliverable***
+Submit a PDF report on your slack submission page and @ me. Include a link/download for your video prototype. Summaries of team meetings should be included in your appendix. Additional sketches should be included in your appendix.
 
 ## Part 3: Final Report
 
