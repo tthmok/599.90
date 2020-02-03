@@ -69,17 +69,21 @@ Attention: **P1:Proposal Due Friday Feb 7, 11:59pm** [Project Page](project.md)
 
 * No reading response this week
 * Tuesday Discussion
+  * Personal experience with AR and VR
 * Thursday Discussion: Proposal Presentations
-* Lab: TBD
+* Lab: Unity Animation
 
 ***Week of February 10***
 
+Attention: **Reading Response Due Monday Feb 10, 11:59pm** [User Experience Guidelines for Designing HMD Extended Reality Applications](https://link.springer.com/chapter/10.1007/978-3-030-29390-1_18) You can skip: '2 Background' and '3 Research Method'
 Attention: **A1:Due Friday Feb 14, 11:59pm** [Assignments Page](assignments.md)
 Attention: **T2a:Draft Presentation Due Friday Feb 14, 11:59pm** [Topic Page](topic.md)
 
 * Tuesday Discussion
+  * Evaluating Augmented Reality
 * Thursday Discussion
-* Lab: TBD
+  * Evaluating Augmented Reality
+* Lab: Work Period
 
 ***Week of February 17***
 
