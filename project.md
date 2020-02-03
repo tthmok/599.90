@@ -75,9 +75,7 @@ Submit a PDF report on your slack submission page and @ me. Include a link/downl
 
 ## Part 3: Final Report
 
-**The Report - 50%.** This final report should be a standalone report that provides a clear description of the user experience that you have designed, as well as the considerations that went into designing this user experience (e.g. if you did observations, what did these observations tell you; what requirements did you develop; and/or based on early design iterations, how did this affect the final decisions that you made in the design). If you chose to do an evaluation of your system, describe the method that you chose to execute, what you asked participants to do, and what you learned from that evaluation. You will also want to include a section that describes "Future Work." This should be partially aspirational (i.e. "If I Had a Million Dollars"), and it should also be grounded closer to the reality of your work (i.e. "Well, we did this, but what we learned was that we obviously should have tweaked it to do this").
-
-Include your latest assessment rubric in the report -- this is either exactly the one that was included in your Part 2, or one that you have updated since then.
+**The Report - 50%.** This final report should be a standalone report that provides a clear description of the user experience that you have designed, as well as the considerations that went into designing this user experience (e.g. if you did observations, what did these observations tell you; what requirements did you develop; and/or based on early design iterations, how did this affect the final decisions that you made in the design). If you chose to do an evaluation of your system, describe the method that you chose to execute, what you asked users to do, and what you learned from that evaluation. You will also include a section that describes "Future Work." This should be partially aspirational (i.e. "If I Had a Million Dollars"), and it should also be grounded closer to the reality of your work (i.e. "Well, we did this, but what we learned was that we obviously should have tweaked it to do this").
 
 As an appendix, you should include documentation of your overall process. For instance, include sketches of early ideas and/or images/pictures of earlier prototypes.
 
@@ -93,6 +91,4 @@ Really take the time to think about this, please. I think if you felt the projec
 
 All members of the team MUST have read the entire document, and each member must sign off on it with a signature (this can be a digital signature if necessary).
 
-**Presentation - 20%.** Develop a 10 minute presentation (PPT) for the final class. You may show your video and/or discuss your prototype/experience. Ensure that you describe "what you would do next" if you had another 6 months. Also, expect 5 minutes of questions after your presentation.
-
-**Assessment.** I will use all four of these components in your final assessment. Because I asked for a rubric for each project (and each rubric is slightly different), I will weight components of your report differently depending on the project. I have included percentage weighting above as a rough guide.
+**Presentation - 20%.** Develop a 15 minute presentation (PPT) for the final class. You may show your video and/or discuss your prototype/experience. Ensure that you describe "what you would do next" if you had another 6 months. Also, expect questions during and after your presentation.
