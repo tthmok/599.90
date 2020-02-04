@@ -71,7 +71,7 @@ Attention: **P1:Proposal Due Friday Feb 7, 11:59pm** [Project Page](project.md)
 * Tuesday Discussion
   * Personal experience with AR and VR
 * Thursday Discussion: Proposal Presentations
-* Lab: Unity Animation
+* Lab: Work Period
 
 ***Week of February 10***
 
@@ -83,7 +83,7 @@ Attention: **T2a:Draft Presentation Due Friday Feb 14, 11:59pm** [Topic Page](to
   * Evaluating Augmented Reality
 * Thursday Discussion
   * Evaluating Augmented Reality
-* Lab: Work Period
+* Lab: Unity Animation
 
 ***Week of February 17***
 
