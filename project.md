@@ -46,8 +46,6 @@ Each person in your team should create at least 5 sketches of potential interact
 ***Presentation***
 You will develop and give a five-minute presentation based on your proposal.
 
-Attention: **P1:Presentation in class Thursday Feb 6**
-
 ***Deliverable***
 This component should be submitted as a PDF report via your Slack project channel. Sketches should be included in the document (or via self-contained zip file if using some external tool). Summaries of team meetings should also be included as an appendix.
 
