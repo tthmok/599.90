@@ -101,3 +101,5 @@ Attention: **Project Progress Presentation** [Project Page](project.md)
 * Tuesday Discussion
 * Thursday Discussion
 * Lab: TBD
+
+Attention: **Tentative. P2 due Friday, Mar 13** [Project Page](project.md)
