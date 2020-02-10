@@ -21,7 +21,6 @@ The role of your partner is to help develop the topic idea, and then to provide 
 
 ### T1: Proposal
 
-Attention: **T1:Proposal Due Friday Jan 24, 11:59pm** [Topic Page](topic.md)
 
 Develop a one paragraph proposal for your topic. This should mainly be identfying the topic, and a set of three candidate papers (likely research papers). You should sketch a brief outline of the kinds of things you think you might discuss for your topic presentation.
 
@@ -38,11 +37,15 @@ Access off campus
 
 ### T2a: Draft Presentation
 
-(Draft Presentation T2a): Develop a 25-30 minute presentation on the material you have collected. This should be in the form of a slide presentation. It may contain videos, but ensure that the videos do not run (collectively) for over 3 minutes (I want you to be presenting). This presentation should be self-contained, though can link to other materials people may find interesting.
+Attention: **T2a: Draft Presentation Due Friday Feb 14, 11:59pm** [Topic Page](topic.md)
 
-Please create a short presentation summary of your topic. This should be 2-3 paragraphs that explain what your topic is and what you plan to cover. Also develop an initial set of questions that the class can discuss following your presentation to be included as part of this summary.
+(Draft Presentation T2a): Develop a 20-30 minute presentation on the material you have collected. This should be in the form of a slide presentation. It may contain videos, but ensure that the videos do not run (collectively) for over 3 minutes (I want you to be presenting). This presentation should be self-contained, though can link to other materials people may find interesting.
+
+(Additional Content): Please create a short presentation summary of your topic. This should be 2-3 paragraphs that explain what your topic is and what you plan to cover. Also develop an initial set of questions that the class can discuss following your presentation to be included as part of this summary.
 
 Choose one reading that (a portion) of the class will respond to.
+
+Send me slides on Slack in whatever format you like.
 
 ### T2b: Partner Draft Feedback
 
