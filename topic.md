@@ -41,7 +41,7 @@ Attention: **T2a: Draft Presentation Due Friday Feb 14, 11:59pm** [Topic Page](t
 
 (Draft Presentation T2a): Develop a 20-30 minute presentation on the material you have collected. This should be in the form of a slide presentation. It may contain videos, but ensure that the videos do not run (collectively) for over 3 minutes (I want you to be presenting). This presentation should be self-contained, though can link to other materials people may find interesting.
 
-(Additional Content): Please create a short presentation summary of your topic. This should be 2-3 paragraphs that explain what your topic is and what you plan to cover. Also develop an initial set of questions that the class can discuss following your presentation to be included as part of this summary.
+(Additional Content): Please create a short presentation summary of your topic. This should be 1-2 paragraphs (less than 1 page) that explain what your topic is and what you plan to cover. Also develop an initial set of questions that the class can discuss following or during your presentation.
 
 Choose one reading that (a portion) of the class will respond to.
 
