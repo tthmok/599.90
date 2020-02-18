@@ -37,8 +37,6 @@ Access off campus
 
 ### T2a: Draft Presentation
 
-Attention: **T2a: Draft Presentation Due Friday Feb 14, 11:59pm** [Topic Page](topic.md)
-
 (Draft Presentation T2a): Develop a 20-30 minute presentation on the material you have collected. This should be in the form of a slide presentation. It may contain videos, but ensure that the videos do not run (collectively) for over 3 minutes (I want you to be presenting). This presentation should be self-contained, though can link to other materials people may find interesting.
 
 (Additional Content): Please create a short presentation summary of your topic. This should be 1-2 paragraphs (less than 1 page) that explain what your topic is and what you plan to cover. Also develop an initial set of questions that the class can discuss following or during your presentation.
@@ -49,7 +47,9 @@ Send me slides on Slack in whatever format you like.
 
 ### T2b: Partner Draft Feedback
 
-(Partner Feedback T2b): For another student. Given their presentation deck and summary; annotate their slides with suggestions on how to improve the presentation; point out anything that isn't clear in the summary. You may also consider developing feedback in a separate document that you provide to the presenter in addition to/instead of annotating the presentation slide deck. Provide this feedback to both the instructor (you will be graded on the quality of your feedback), and to the original author of the powerpoint deck.
+Attention: **Due Friday Feb 28, 11:59pm**
+
+(Partner Feedback T2b): For another student. Given their presentation deck and summary; annotate their slides with suggestions on how to improve the presentation; point out anything that isn't clear in the summary. You may also consider developing feedback in a separate document that you provide to the presenter in addition to/instead of annotating the presentation slide deck. Provide this feedback to both the instructor (you will be graded on the quality of your feedback), and to the original author of the slide deck.
 
 ### T3: Seminar Presentation and Reflection
 
