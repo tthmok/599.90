@@ -72,15 +72,12 @@ All due dates are at 11:59 pm.
 
 ***Week of February 10***
 
-Attention: **Reading Response Due Monday Feb 10, 11:59pm** [User Experience Guidelines for Designing HMD Extended Reality Applications](https://link.springer.com/chapter/10.1007/978-3-030-29390-1_18) You can skip: '2 Background' and '3 Research Method'
-Attention: **A1:Due Friday Feb 14, 11:59pm** [Assignments Page](assignments.md)
-Attention: **T2a:Draft Presentation Due Friday Feb 14, 11:59pm** [Topic Page](topic.md)
-
 * Tuesday Discussion
   * Evaluating Augmented Reality
 * Thursday Discussion
   * Evaluating Augmented Reality
 * Lab: Unity Animation
+* Reading: [User Experience Guidelines for Designing HMD Extended Reality Applications](https://link.springer.com/chapter/10.1007/978-3-030-29390-1_18)
 
 ***Week of February 17***
 
@@ -90,6 +87,7 @@ Attention: **T2a:Draft Presentation Due Friday Feb 14, 11:59pm** [Topic Page](to
 
 Attention: **T2b: Partner Draft Feedback Due Friday 28, 11:59pm** [Topic Page](topic.md)
 
+* No reading response due
 * Tuesday Discussion
 * Thursday Discussion
 * Lab: TBD
