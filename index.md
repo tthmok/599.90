@@ -87,7 +87,6 @@ All due dates are at 11:59 pm.
 
 Attention: **T2b: Partner Draft Feedback Due Friday 28, 11:59pm** [Topic Page](topic.md)
 
-* No reading response due
 * Tuesday Discussion
 * Thursday Discussion
 * Lab: TBD
