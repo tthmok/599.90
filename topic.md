@@ -49,7 +49,7 @@ Send me slides on Slack in whatever format you like.
 
 Attention: **Due Friday Feb 28, 11:59pm**
 
-(Partner Feedback T2b): For another student. Given their presentation deck and summary; annotate their slides with suggestions on how to improve the presentation; point out anything that isn't clear in the summary. You may also consider developing feedback in a separate document that you provide to the presenter in addition to/instead of annotating the presentation slide deck. Provide this feedback to both the instructor (you will be graded on the quality of your feedback), and to the original author of the slide deck.
+(Partner Feedback T2b): For another student. Given their presentation deck and summary; annotate their slides with suggestions on how to improve the presentation; point out anything that isn't clear in the summary. You may also consider developing feedback in a separate document that you provide to the presenter in addition to/instead of annotating the presentation slide deck. Provide this feedback to me (you will be graded on the quality of your feedback), and to the original author of the slide deck.
 
 ### T3: Seminar Presentation and Reflection
 
