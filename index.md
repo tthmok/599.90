@@ -87,9 +87,9 @@ All due dates are at 11:59 pm.
 
 Attention: **T2b: Partner Draft Feedback Due Friday 28, 11:59pm** [Topic Page](topic.md)
 
-* Tuesday Discussion
-* Thursday Discussion
-* Lab: TBD
+* Tuesday Discussion: Class cancelled
+* Thursday Discussion: Deliverables discussion. MR Sensing Infrastructure.
+* Lab: Reviewing A1 and Work time
 
 ***Week of March 2***
 
