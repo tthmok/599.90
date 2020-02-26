@@ -69,7 +69,7 @@ Criteria for evaluation on this component:
 You will develop and give a ten-minute presentation based on your progress, and engage in a constructive critique session with your classmates.
 
 ***Deliverable***
-Submit a PDF report on your slack submission page and @ me. Include a link/download for your video prototype. Summaries of team meetings should be included in your appendix. Additional sketches should be included in your appendix.
+Submit a PDF report on your slack submission page and @ me. Include a link/download for your video prototype. Summaries of team meetings should be included in your appendix. If you have additional sketches include them in your appendix.
 
 ## Part 3: Final Report
 
