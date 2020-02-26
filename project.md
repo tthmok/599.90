@@ -57,9 +57,11 @@ Criteria for evaluation on this component:
 
 * How clear is the goal of the project?
 * How well communicated are the changes that have happened over the semester P0 to P1 to P2?
+* Is the discussion of the challenges faced so far, and how they will be addressed, clear and significant?
 * Is there a clear plan for moving forward on the project?
-* How clear is the outcome of the project from a user experience perspective? (illustrated via the sketches/prototypes)
+* How clear is the outcome of the project from a user experience perspective? (illustrated via sketches/mockups/prototypes/video-prototypes)
   * What do you imagine to have completed for the end of the semester?
+* How clear are your tentative plans for evaluating your project?
 * How realistic is the timeline?
 * How clear are the results of your team meetings?
 
