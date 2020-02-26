@@ -51,7 +51,7 @@ This component should be submitted as a PDF report via your Slack project channe
 
 This report should provide a clear understanding of the expected user experience, the challenges your team has faced, and how you will resolve or address these challenges. You should provide a video prototype of your expected user experience, where components that have been developed should be shown in "working" order, and the other components mocked up. Your progress report should illustrate the depth of your design exploration. How you explore your design and provide evidence of that exploration is up to you and will be unique for each project. Some possible ideas include but are not limited to; creating additional sketches, simple prototypes, feedback from peers, and performing a heuristic evaluation. You should revisit your timeline.
 
-New to this component is a tentative plan for further evaluating the mixed reality user experience.
+**New to this component is a tentative plan for further evaluating the mixed reality user experience.**
 
 Criteria for evaluation on this component:
 
