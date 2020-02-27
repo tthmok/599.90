@@ -19,8 +19,6 @@ To submit, simply send a link (slack or email) to your github repo for the assig
 
 ## Assignment 1: AR Hello World
 
-Attention: **A1:Due Friday Feb 14, 11:59pm** [Assignments Page](assignments.md)
-
 Using Unity3D and Vuforia (or another AR tool if you prefer), create a simple augmented reality application.
 
 * Download a character from the Asset Store (or, if you’re feeling ambitious, try creating your own!)
@@ -32,6 +30,6 @@ When submitting, please include a README.txt file with instructions describing h
 
 ## Assignment 2: AR Embodied Hello World
 
-_(due TBD)_
+Attention: **Due Friday March 20, 11:59pm**
 
 Build on your A1 Submission. Implement "embodied" interaction. For example, import a speech recognition asset or use built-in sensors on your device like accelerometers, gyroscopes, proximity sensors, etc. Get creative! You might control your character with your own movements, you might cause events to happen if you move closer or farther from your targets or your character. Implement at least **two** types of embodied interaction that affect the progress of your character.
