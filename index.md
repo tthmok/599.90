@@ -101,3 +101,5 @@ Attention: **T2b: Partner Draft Feedback Due Friday 28, 11:59pm** [Topic Page](t
 
 Attention: **Project Progress Presentation** [Project Page](project.md)
 Attention: **Tentative. P2 due Friday, Mar 13** [Project Page](project.md)
+
+Attention: ** A2 due Friday Mar 20**[Assignments Page](assignments.md)
