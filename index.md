@@ -30,8 +30,8 @@ All due dates are at 11:59 pm.
 * A1. Friday Feb 14
 * T2a. Friday Feb 14
 * T2b. Friday Feb 28
-* A2. Friday Mar 6
 * P2. Friday Mar 13
+* A2. Friday Mar 20
 * P3. Friay Apr 17
 
 ## Tentative Schedule
@@ -93,10 +93,11 @@ Attention: **T2b: Partner Draft Feedback Due Friday 28, 11:59pm** [Topic Page](t
 
 ***Week of March 2***
 
-Attention: **Project Progress Presentation** [Project Page](project.md)
-
 * Tuesday Discussion
 * Thursday Discussion
 * Lab: TBD
 
+***Week of March 9***
+
+Attention: **Project Progress Presentation** [Project Page](project.md)
 Attention: **Tentative. P2 due Friday, Mar 13** [Project Page](project.md)
