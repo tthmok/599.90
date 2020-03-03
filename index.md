@@ -85,8 +85,6 @@ All due dates are at 11:59 pm.
   
 ***Week of February 24***
 
-Attention: **T2b: Partner Draft Feedback Due Friday 28, 11:59pm** [Topic Page](topic.md)
-
 * Tuesday Discussion: Class cancelled
 * Thursday Discussion: Deliverables discussion. MR Sensing Infrastructure.
 * Lab: Reviewing A1 and Work time
@@ -99,7 +97,7 @@ Attention: **T2b: Partner Draft Feedback Due Friday 28, 11:59pm** [Topic Page](t
 
 ***Week of March 9***
 
-Attention: **Project Progress Presentation** [Project Page](project.md)
+Attention: **Tuesday March 10. Project Progress Presentation** [Project Page](project.md)
 Attention: **Tentative. P2 due Friday, Mar 13** [Project Page](project.md)
 
 Attention: **A2 due Friday Mar 20**[Assignments Page](assignments.md)
