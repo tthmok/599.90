@@ -93,8 +93,8 @@ Attention: **T2b: Partner Draft Feedback Due Friday 28, 11:59pm** [Topic Page](t
 
 ***Week of March 2***
 
-* Tuesday Discussion
-* Thursday Discussion
+* Tuesday Discussion: Seminar Feedback. Society and Mixed Reality
+* Thursday Discussion: Society and Mixed Reality
 * Lab: TBD
 
 ***Week of March 9***
