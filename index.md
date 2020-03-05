@@ -98,6 +98,13 @@ All due dates are at 11:59 pm.
 ***Week of March 9***
 
 Attention: **Tuesday March 10. Project Progress Presentation** [Project Page](project.md)
-Attention: **Tentative. P2 due Friday, Mar 13** [Project Page](project.md)
+Attention: **P2 due Friday, Mar 13** [Project Page](project.md)
+
+* **Reading response due in #discussion by Tuesday March 10, 11:59 PM. https://doi.org/10.1109/TVCG.2013.41**
+* Tuesday Discussion: Project Progress Presentations
+* Thursday Discussion: XR for Simulation: Using Virtual Reality to Simulate Augmented Reality.
+* Lab: Work period
+
+***Week of March 16***
 
 Attention: **A2 due Friday Mar 20**[Assignments Page](assignments.md)
