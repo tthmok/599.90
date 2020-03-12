@@ -26,13 +26,9 @@ To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, et
 
 All due dates are at 11:59 pm.
 
-* P1. Friday Feb 7
-* A1. Friday Feb 14
-* T2a. Friday Feb 14
-* T2b. Friday Feb 28
 * P2. Friday Mar 13
 * A2. Friday Mar 20
-* P3. Friay Apr 17
+* P3. Friday Apr 17
 
 ## Tentative Schedule
 
@@ -97,12 +93,10 @@ All due dates are at 11:59 pm.
 
 ***Week of March 9***
 
-Attention: **Tuesday March 10. Project Progress Presentation** [Project Page](project.md)
 Attention: **P2 due Friday, Mar 13** [Project Page](project.md)
 
-* **Reading response due in #discussion by Tuesday March 10, 11:59 PM. https://doi.org/10.1109/TVCG.2013.41**
 * Tuesday Discussion: Project Progress Presentations
-* Thursday Discussion: XR for Simulation: Using Virtual Reality to Simulate Augmented Reality.
+* Thursday Discussion: XR for Simulation: Using Virtual Reality to Simulate Augmented Reality. Reading: https://doi.org/10.1109/TVCG.2013.41
 * Lab: Work period
 
 ***Week of March 16***
