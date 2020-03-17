@@ -100,6 +100,7 @@ All due dates are at 11:59 pm.
 
 * Tuesday Discussion: Going online. Daniel's seminar on [Laparoscopic Virtual Mirror New Interaction Paradigm for Monitor Based Augmented Reality](https://ieeexplore.ieee.org/document/4161004)
 * Thursday Discussion: Hassan's seminar on [Is Augmented Reality Technology an Effective Tool forE-commerce? An Interactivity and Vividness Perspective](https://e-tarjome.com/storage/panel/fileuploads/2019-03-11/1552293649_E10780-e-tarjome.pdf)
+* Lab time cancelled
 
 Attention: **A2 due Monday Mar 23, 11:59pm** [Assignments Page](assignments.md)
 
