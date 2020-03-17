@@ -26,8 +26,7 @@ To download papers from off-campus, use EZProxy bookmarklet, libx for chrome, et
 
 All due dates are at 11:59 pm.
 
-* P2. Friday Mar 13
-* A2. Friday Mar 20
+* A2  Monday Mar 23
 * P3. Friday Apr 17
 
 ## Tentative Schedule
@@ -93,12 +92,13 @@ All due dates are at 11:59 pm.
 
 ***Week of March 9***
 
-Attention: **P2 due Friday, Mar 13** [Project Page](project.md)
-
 * Tuesday Discussion: Project Progress Presentations
 * Thursday Discussion: XR for Simulation: Using Virtual Reality to Simulate Augmented Reality. Reading: https://doi.org/10.1109/TVCG.2013.41
 * Lab: Work period
 
 ***Week of March 16***
 
-Attention: **A2 due Friday Mar 20**[Assignments Page](assignments.md)
+* Tuesday Discussion: Going online. Daniel's seminar on [Laparoscopic Virtual Mirror New Interaction Paradigm for Monitor Based Augmented Reality](https://ieeexplore.ieee.org/document/4161004)
+* Thursday Discussion: Hassan's seminar on [Is Augmented Reality Technology an Effective Tool forE-commerce? An Interactivity and Vividness Perspective](https://e-tarjome.com/storage/panel/fileuploads/2019-03-11/1552293649_E10780-e-tarjome.pdf)
+
+Attention: **A2 due Monday Mar 23, 11:59pm**[Assignments Page](assignments.md)
