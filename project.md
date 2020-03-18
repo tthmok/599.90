@@ -89,4 +89,4 @@ Really take the time to think about this, please. I think if you felt the projec
 
 All members of the team MUST have read the entire document, and each member must sign off on it with a signature (this can be a digital signature if necessary).
 
-**Presentation - 20%.** Develop a 15 minute presentation (PPT) for the final class. You may show your video and/or discuss your prototype/experience. Ensure that you describe "what you would do next" if you had another 6 months. Also, expect questions during and after your presentation.
+**Presentation** This was 20% of the grade. I will be deciding how to adjust the weights of the remaining components.
