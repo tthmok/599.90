@@ -102,6 +102,10 @@ All due dates are at 11:59 pm.
 * Thursday Discussion: Hassan's seminar on [Is Augmented Reality Technology an Effective Tool forE-commerce? An Interactivity and Vividness Perspective](https://e-tarjome.com/storage/panel/fileuploads/2019-03-11/1552293649_E10780-e-tarjome.pdf)
 * Lab time cancelled
 
-Attention: **A2 due Monday Mar 23, 11:59pm** [Assignments Page](assignments.md)
+***Week of March 23***
+
+* Tuesday Discussion: Jashan's Seminar. Kett's Seminar.
+* Thursday Discussion: Joe's Seminar. Edison's Seminar.
+* Lab time cancelled
 
 Attention: **P3 due Friday Apr 17, 11:59pm** [Projects Page](project.md)
