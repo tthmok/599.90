@@ -63,6 +63,8 @@ Submit a PDF report on your slack submission page and @ me. Include a link/downl
 
 As an appendix, you should include documentation of your overall process. For instance, include sketches of early ideas and/or images/pictures of earlier prototypes. Summaries of team meetings should be included in your appendix.
 
+Somehow get me your code. Either by adding my on your repository or sending a zip. Whatever works well for you. If you are adding me to your repository let me know, for instance, if you're on github I will send you my github account to add.
+
 **The Report - 50%.** This final report should be a standalone report that provides a clear description of the user experience that you have designed, as well as the considerations that went into designing this user experience (e.g. if you did observations, what did these observations tell you; what requirements did you develop; and/or based on early design iterations, how did this affect the final decisions that you made in the design). For the **evaluation of your system** (depending on how you chose to evaluate), **describe the method** that you chose to execute and **what you learned** from that evaluation. You will also include a section that describes "Future Work." This should be *partially aspirational* (i.e. "If I Had a Million Dollars"), and partly grounded closer to the reality of your work (i.e. "Well, we did this, but what we learned was that we obviously should have tweaked it to do this").
 
 As an appendix, you should include documentation of your overall process. For instance, include sketches of early ideas and/or images/pictures of earlier prototypes.
