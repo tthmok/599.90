@@ -38,15 +38,6 @@ Criteria for evaluation on this component:
 * How clear are the results of your team meetings? For example, include who was at each meeting, what tasks were assigned to each person, what aspects of the project were discussed or reviewed.
 * How realistic is the timeline?
 
-***Sketches***
-Each person in your team should create at least 5 sketches of potential interactions in your application. Thus there should be at least 15 sketches in your report. You will be graded on clarity of your sketches as individuals. You don't have to be an artist just try to make things clear and understandable. Use labelling and additional notes liberally on sketches to help explain.
-
-***Presentation***
-You will develop and give a five-minute presentation based on your proposal.
-
-***Deliverable***
-This component should be submitted as a PDF report via your Slack project channel. Sketches should be included in the document (or via self-contained zip file if using some external tool). Summaries of team meetings should also be included as an appendix.
-
 ## Part 2: Progress Report and Critique
 
 This report should provide a clear understanding of the expected user experience, the challenges your team has faced, and how you will resolve or address these challenges. You should provide a video prototype of your expected user experience, where components that have been developed should be shown in "working" order, and the other components mocked up. Your progress report should illustrate the depth of your design exploration. How you explore your design and provide evidence of that exploration is up to you and will be unique for each project. Some possible ideas include but are not limited to; creating additional sketches, simple prototypes, feedback from peers, and performing a heuristic evaluation. You should revisit your timeline.
@@ -65,15 +56,14 @@ Criteria for evaluation on this component:
 * How realistic is the timeline?
 * How clear are the results of your team meetings?
 
-***Presentation***
-You will develop and give a ten-minute presentation based on your progress, and engage in a constructive critique session with your classmates.
-
-***Deliverable***
-Submit a PDF report on your slack submission page and @ me. Include a link/download for your video prototype. Summaries of team meetings should be included in your appendix. If you have additional sketches include them in your appendix.
-
 ## Part 3: Final Report
 
-**The Report - 50%.** This final report should be a standalone report that provides a clear description of the user experience that you have designed, as well as the considerations that went into designing this user experience (e.g. if you did observations, what did these observations tell you; what requirements did you develop; and/or based on early design iterations, how did this affect the final decisions that you made in the design). For the evaluation of your system (depending on how you chose to evaluate), describe the method that you chose to execute, what you asked users to do, and what you learned from that evaluation. You will also include a section that describes "Future Work." This should be partially aspirational (i.e. "If I Had a Million Dollars"), and it should also be grounded closer to the reality of your work (i.e. "Well, we did this, but what we learned was that we obviously should have tweaked it to do this").
+***Deliverable***
+Submit a PDF report on your slack submission page and @ me. Include a link/download for your video prototype. If you have new/additional sketches include them in appropriate places throughout the report to help clarify.
+
+As an appendix, you should include documentation of your overall process. For instance, include sketches of early ideas and/or images/pictures of earlier prototypes. Summaries of team meetings should be included in your appendix.
+
+**The Report - 50%.** This final report should be a standalone report that provides a clear description of the user experience that you have designed, as well as the considerations that went into designing this user experience (e.g. if you did observations, what did these observations tell you; what requirements did you develop; and/or based on early design iterations, how did this affect the final decisions that you made in the design). For the **evaluation of your system** (depending on how you chose to evaluate), **describe the method** that you chose to execute and **what you learned** from that evaluation. You will also include a section that describes "Future Work." This should be *partially aspirational* (i.e. "If I Had a Million Dollars"), and partly grounded closer to the reality of your work (i.e. "Well, we did this, but what we learned was that we obviously should have tweaked it to do this").
 
 As an appendix, you should include documentation of your overall process. For instance, include sketches of early ideas and/or images/pictures of earlier prototypes.
 
@@ -89,6 +79,6 @@ Be honest with yourselves. It is a moment to feel proud of yourselves, and it is
 
 Really take the time to think about this, please. I think if you felt the project went perfectly, then you're either deluding yourselves, or not reflecting on the experience hard enough. ;-)
 
-All members of the team MUST have read the entire document, and each member must sign off on it with a signature (this can be a digital signature if necessary).
+All members of the team MUST have read the entire letter, and each member must sign off on it with a digital signature.
 
 **Presentation** This was 20% of the grade. I will be deciding how to adjust the weights of the remaining components.
